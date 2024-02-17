@@ -1,2 +1,2 @@
 # bookbot
-bookbot from boot.dev
+First commit of bookbot
